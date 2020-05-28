@@ -9,4 +9,4 @@ Deb package mesa new https://github.com/Griggorii/mesa-20.0.4_V9-libdrm_ubuntu-2
 
 Boot file safe ubuntu check gnome-control-center about system - > string llvmpipe LLVM10
 
-Griggorii@gmail.com
+Патентная сборка и конфигурация Griggorii@gmail.com
