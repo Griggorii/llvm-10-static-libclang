@@ -8,3 +8,5 @@ https://github.com/Griggorii/mesa-20.1.0-linux/blob/master/Boot%20filesafe%20llv
 Deb package mesa new https://github.com/Griggorii/mesa-20.0.4_V9-libdrm_ubuntu-20.04_and_19.04_graphics-deb-x84-amd64-package
 
 Boot file safe ubuntu check gnome-control-center about system - > string llvmpipe LLVM10
+
+Griggorii@gmail.com
